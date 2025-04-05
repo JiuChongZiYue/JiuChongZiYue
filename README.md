@@ -4,7 +4,6 @@
 - 📫 Reach me with Email: **kanran.peng2001@gmail.com**
 - 🤝 Reach me with HandShake: **https://app.joinhandshake.com/profiles/haf92c**
 - 🧑‍💼 Reach me with LinkedIn: **https://www.linkedin.com/in/kanran-peng-b2469235a/**
--    
 
 <h3 align="left">Connect with me: anan20011007@gmail.com</h3>
 <p align="left">
