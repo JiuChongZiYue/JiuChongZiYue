@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Kanran Peng</h1>
 <h3 align="center">A cs major student from Rutgers, the State University of New Jersey</h3>
 
-- 📫 How to reach me **anan20011007@gmail.com**
+- 📫 Reach me with Email: **kanran.peng2001@gmail.com**
+- 🤝 Reach me with HandShake: **https://app.joinhandshake.com/profiles/haf92c**
+- 🧑‍💼 Reach me with LinkedIn: **https://www.linkedin.com/in/kanran-peng-b2469235a/**
+-    
 
 <h3 align="left">Connect with me: anan20011007@gmail.com</h3>
 <p align="left">
