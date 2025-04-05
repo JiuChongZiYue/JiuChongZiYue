@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kanran Peng</h1>
-<h3 align="center">A cs major student from Rutgers, the State University of New Jersey</h3>
+<h3 align="center">Bachelor’s in Computer Science from Rutgers New Brunswick, The State University of New Jersey.</h3>
+
+<h5 align="center">Bachelor’s in Mathematics from Rutgers New Brunswick, The State University of New Jersey</h5>
 
 - 📫 Reach me with Email: **kanran.peng2001@gmail.com**
 - 🤝 Reach me with HandShake: **https://app.joinhandshake.com/profiles/haf92c**
